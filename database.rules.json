@@ -1,7 +1,11 @@
 {
   "rules": {
-    "nuudel9":   { ".read": "auth != null", ".write": "auth != null" },
+    "tonshuul6": { ".read": "auth != null", ".write": "auth != null" },
+    "solongo7":  { ".read": "auth != null", ".write": "auth != null" },
     "oddyn8":    { ".read": "auth != null", ".write": "auth != null" },
-    "tonshuul6": { ".read": "auth != null", ".write": "auth != null" }
+    "nuudel9":   { ".read": "auth != null", ".write": "auth != null" },
+    "medleg10":  { ".read": "auth != null", ".write": "auth != null" },
+    "mit11":     { ".read": "auth != null", ".write": "auth != null" },
+    "mit12":     { ".read": "auth != null", ".write": "auth != null" }
   }
 }
